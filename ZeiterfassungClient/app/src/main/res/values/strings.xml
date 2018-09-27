@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ZeiterfassungClient</string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="add_workday">Start a new Workday</string>
+    <string name="heading_add_workday">Zeiterfassung leicht gemacht :-D</string>
+    <string name="input_endtime">Input endtime as HH:mm</string>
+    <string name="input_starttime">Input starttime as HH:mm</string>
+    <string name="output">output will be shown here</string>
 </resources>
