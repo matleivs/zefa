@@ -25,6 +25,8 @@ dependencies {
 
     // Firebase
     implementation 'com.google.firebase:firebase-core:16.0.3'
+    // Firebase Functions
+    implementation 'com.google.firebase:firebase-functions:16.1.0'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
