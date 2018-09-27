@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328384876114",
+    "firebase_url": "https://zeiterfassung-123.firebaseio.com",
+    "project_id": "zeiterfassung-123",
+    "storage_bucket": "zeiterfassung-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328384876114:android:366fe0cd4e6642a4",
+        "android_client_info": {
+          "package_name": "com.itemis.nikbin.zeiterfassungclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328384876114-t02m7u2ljssp9c3956mlhhb4aqagt43o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itemis.nikbin.zeiterfassungclient",
+            "certificate_hash": "28685219a1e5db0830fec4b92f69ce1b363b9eda"
+          }
+        },
+        {
+          "client_id": "328384876114-pvfeksq4k5up28dj5d13g0duiai6qo8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8W2uTJODhKgOvh4MPtrY_CKcrh3vX4rM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328384876114-pvfeksq4k5up28dj5d13g0duiai6qo8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
