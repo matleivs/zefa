@@ -73,6 +73,17 @@
 
                 </LinearLayout>
 
+
+                <Button
+                    android:id="@+id/button_sign_in"
+                    style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/button_add_workday"
+                    android:layout_toLeftOf="@+id/button_add_workday"
+                    android:layout_toStartOf="@+id/button_add_workday"
+                    android:text="@string/sign_in"/>
+
                 <Button
                     android:id="@+id/button_add_workday"
                     style="@style/Widget.AppCompat.Button.Borderless"
